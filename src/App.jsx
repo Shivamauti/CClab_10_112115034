@@ -18,7 +18,7 @@ function App() {
   return <>
     <PostListProvider>
       {/* <div style={{display:'flex',flexDirection:'row-reverse',margin:'10px'}}><LogoutButton></LogoutButton></div> */}
-      <div className="app-container">
+      <div style={{backgroundColor:'#80c8ce'}} className="app-container">
         <Sidebar
           selectedTab={selectedTab}
           setSelectedTab={setSelectedTab}

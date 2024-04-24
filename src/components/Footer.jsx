@@ -7,22 +7,7 @@ const Footer = () => {
             <a href="#" className="nav-link px-2 text-body-secondary">
               Home
             </a>
-          </li>
-          <li className="nav-item">
-            <a href="#" className="nav-link px-2 text-body-secondary">
-              Features
-            </a>
-          </li>
-          <li className="nav-item">
-            <a href="#" className="nav-link px-2 text-body-secondary">
-              Pricing
-            </a>
-          </li>
-          <li className="nav-item">
-            <a href="#" className="nav-link px-2 text-body-secondary">
-              FAQs
-            </a>
-          </li>
+          </li>    
           <li className="nav-item">
             <a href="#" className="nav-link px-2 text-body-secondary">
               About

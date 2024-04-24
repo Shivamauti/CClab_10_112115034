@@ -57,11 +57,11 @@ const PostListProvider = ({ children }) => {
 const DEFAULT_POST_LIST = [
   {
     id: "1",
-    title: "Going to Mumbai",
-    body: "Hi Friends, I am going to Mumbai for my vacations. Hope to enjoy a lot. Peace out.",
+    title: "Going to Rameshwaram",
+    body: "Hi Friends, I am going to Rameshwaram for my vacations. Hope to enjoy a lot. Peace out.",
     reactions: 2,
     userId: "user-9",
-    tags: ["vacation", "Mumbai", "Enjoying"],
+    tags: ["vacation", "Rameshwaram", "Enjoying"],
   },
   {
     id: "2",
